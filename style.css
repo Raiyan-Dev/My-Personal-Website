@@ -1,0 +1,103 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center; 
+}
+h1{ 
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66bfbf;
+}
+h2{ 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66bfbf;
+    font-weight: bold;
+}
+h3{ 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #11999e;
+}
+a{
+    color: #11999e;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.top-container{
+    padding-top: 60px;
+    background-color: #e0ebe8;
+    position: relative;
+}
+.top-cloud{
+    position: relative;
+    left: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    right: 900px;
+}
+.profile{
+    margin: 50px auto 50px auto;   
+}
+hr{
+    border-top: dotted grey 6px;
+    border-bottom: none;
+    width: 70px;
+    margin: 70px auto;
+}
+.contact-me{
+    line-height: 1.5;
+    margin: 50px auto 50px auto;
+    width: 50%;
+}
+.contact-me-header{
+    font-weight: bolder;
+}
+.btn{
+    background: linear-gradient(#11cdd4, #11999e);
+    border-radius: 7px;
+    color: white;
+    display: inline-block;
+    font-weight: lighter;
+    margin-top: 35px;
+    height: 30px;
+    padding-top: 5px;
+    text-decoration: none;
+    width: 150px;
+}
+.btn:hover{
+    background: linear-gradient(#30E3CB, #2BC4AD);
+}
+.bottom-container{
+    background-color: #66bfbf;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 20px;
+}
+.footer-link{
+    margin: 0 15px 0 15px;
+    text-decoration: none;
+}
+footer{
+    padding-top: 10px;
+    color: white;
+}
